@@ -1,8 +1,6 @@
 <h1 align="center"><b> Alice Kang </b></h1>
 
 <p> Hi there 👋 My name is Alice Kang. I am a programmer addicted to coffee (input coffee &rarr; output code). I studied Computer Science, Math, and Linguistics at McGill University 🍁. Feel free to scroll down to find out more about me!</p>
-
-- 🔭 The Developer and Maintainer of the National Canadian OMERO instance
   
 <br>
 

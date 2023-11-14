@@ -6,7 +6,7 @@
 
 <h2 align="center">Work Experience</h2>
 
-- OMERO Database Administrator at McGill University [Montreal, 2022]
+- OMERO Database Administrator at McGill University [Montreal, 2022~]
 - Joint Defense Cloud Program Intern at Department of National Defense [Ottawa, Fall 2021]
 - Software Engineer Intern at Index Exchange [Montreal, 2021]
 - Data Analyst Intern at GB Style Ltd. [Seoul, Summer 2018]
